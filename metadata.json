@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: AI画像判別ゲーム[ver 07011650]",
+  "description": "AIが作った画像か人間が作った画像かを見抜く5秒決断の2択クイズゲーム。3問全問正解でクリアを目指せ！",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
